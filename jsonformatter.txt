@@ -19,7 +19,7 @@
       "RestMenuSite": "https://chipotle.com/order#menu"
     },
     {
-      "RestName": "Good Company Doughnuts & Cafe",
+      "RestName": "Good Company",
       "RestImage": "https://raw.githubusercontent.com/mrstufff/IT315/master/good%20company%20llogo.jpg",
       "RestRatingImg": "https://raw.githubusercontent.com/mrstufff/IT315/master/4stars.png",
       "RestDeliveryImg": "https://raw.githubusercontent.com/mrstufff/IT315/master/Yes.png",
