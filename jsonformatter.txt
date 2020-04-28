@@ -1,0 +1,59 @@
+﻿{
+  "RestaurantPlaces": [
+    {
+      "RestName": "Chick Fill A",
+      "RestImage": "chickfilla logo.jpg",
+      "RestRatingImg": "4stars.png",
+      "RestDeliveryImg": "Yes.png",
+      "RestAddress": "671 N Glebe Rd Ste 1270, Arlington, VA 22203",
+      "RestWebsite": "https://www.chick-fil-a.com/",
+      "RestMenuSite": "https://www.chick-fil-a.com/"
+    },
+    {
+      "RestName": "Chipotle",
+      "RestImage": "chipotle logo.png",
+      "RestRatingImg": "3stars.png",
+      "RestDeliveryImg": "No.png",
+      "RestAddress": "4300 Wilson Blvd #100, Arlington, VA 22203",
+      "RestWebsite": "https://locations.chipotle.com/va/arlington/4300-wilson-blvd",
+      "RestMenuSite": "https://chipotle.com/order#menu"
+    },
+    {
+      "RestName": "Good Company Doughnuts & Cafe",
+      "RestImage": "good company llogo.jpg",
+      "RestRatingImg": "4stars.png",
+      "RestDeliveryImg": "Yes.png",
+      "RestAddress": "672 North Glebe Road Retail 1, Arlington, VA 22203",
+      "RestWebsite": "https://gocodough.com/",
+      "RestMenuSite": "https://gocodough.com/menu/all-day/"
+    },
+    {
+      "RestName": "Halal Guys",
+      "RestImage": "halalla guy logo.jpg",
+      "RestRatingImg": "4stars.png",
+      "RestDeliveryImg": "No.png",
+      "RestAddress": "4201 Wilson Blvd, Arlington, VA 22203",
+      "RestWebsite": "https://thehalalguys.com/",
+      "RestMenuSite": "https://thehalalguys.com/menu/"
+    },
+    {
+      "RestName": "Shake Shack",
+      "RestImage": "shakeshack logo.jpg",
+      "RestRatingImg": "5stars.png",
+      "RestDeliveryImg": "No.png",
+      "RestAddress": "4201 Wilson Blvd #0180, Arlington, VA 22203",
+      "RestWebsite": "https://www.shakeshack.com/location/ballston-va/",
+      "RestMenuSite": "https://order.shakeshack.com/"
+    },
+    {
+      "RestName": "Which Wich",
+      "RestImage": "which wich logo.jpg",
+      "RestRatingImg": "3stars.png",
+      "RestDeliveryImg": "No.png",
+      "RestAddress": "4300 Wilson Blvd, Arlington, VA 22203",
+      "RestWebsite": "https://www.whichwich.com/",
+      "RestMenuSite": "https://order.whichwich.com/menu/which-wich-ballston-point"
+    }
+  ],
+  "Status": "OK"
+}
